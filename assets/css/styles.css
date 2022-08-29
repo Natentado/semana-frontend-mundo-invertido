@@ -217,7 +217,7 @@ header::before {
 .world-characters#bottom-characters {
   height: 500px;
   background-color: var(--character-bottom-image-color);
-  top: 3px;
+  top: 0px;
   transform: rotateZ(180deg) scaleX(-1);
   position: relative;
 
